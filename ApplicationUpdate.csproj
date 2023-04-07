@@ -12,6 +12,7 @@
 		<Description>Allows checking for application updates via remote XML file or GitHub Releases, downloading the installer, and running the installer.</Description>
 		<PackageId>ChrisKaczor.ApplicationUpdate</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<AssemblyName>ChrisKaczor.ApplicationUpdate</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
