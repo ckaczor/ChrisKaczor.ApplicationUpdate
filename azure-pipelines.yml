@@ -27,7 +27,7 @@ steps:
     FileNames: '**/*.csproj'
     InsertAttributes: true
     FileEncoding: 'utf-8'
-    WriteBOM: false
+    WriteBOM: true
     FailOnWarning: true
     Authors: 'Chris Kaczor'
     Copyright: 'Copyright $(date:YYYY) Chris Kaczor'
